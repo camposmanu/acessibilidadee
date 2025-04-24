@@ -5,7 +5,7 @@
     --laranja-claro: #5b1594;
     --alto-contraste-fundo: #000000;
     --alto-contraste-texto: #ffffff;
-    --alto-contraste-link: rgba(255, 0, 221, 0.698);
+    --alto-contraste-link: rgba(173, 0, 253, 0.685);
 }
 
 body {
@@ -86,7 +86,7 @@ h2 {
     padding-top: 5rem;
     margin: 3rem 0;
     background: url('img/disco.jpg') top right no-repeat,
-                url('img/disco.jpg') bottom left no-repeat;
+                url('img/estrela.jpg') bottom left no-repeat;
     background-size: 180px 180px;
 }
 
